@@ -14,8 +14,8 @@ The Materials folder contains the image and text based datasets, including the t
 
 
 ## Section 3: References
-- toynk.com/blogs/news/how-many-pokemon-types-are-there
-- medium.com/@juandes/pokemon-colors-and-deep-learning-95fb715be46
+- https://www.toynk.com/blogs/news/how-many-pokemon-types-are-there
+- https://medium.com/@juandes/pokemon-colors-and-deep-learning-95fb715be46
 - https://bulbapedia.bulbagarden.net/wiki/Pokémon_Red_and_Green_Versions
 - https://pokemon.fandom.com/wiki/Types
 - https://www.ranker.com/list/here_s-what-the-original-designs-of-your-favorite-pokemon-looked-like/raelyn-giansanti#
