@@ -1,4 +1,4 @@
-# DS4002 - CS3
+# DS4002 - Pokemon Type Case Study
 
 ![Typepic](https://github.com/aschebell/CS3/assets/98242678/896de99b-fd53-4904-b17a-9da3254478b3)
 
