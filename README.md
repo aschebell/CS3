@@ -13,7 +13,7 @@ The hook document outlines the case study and is titled CS3Prompt.pdf. The Rubic
 The Materials folder contains the image and text based datasets, including the training and testing sets used in the example. The folder also contained Rmd scripts displaying a method for extracting color palettes from images and building a random forest model for primary type prediction. Additionally, this folder contains two reference materials to use gaining greater understanding of both Pokemon Types and the Pokemon Design Process.
 
 
-## Section 3: References
+## Section 3: Additional References
 - https://www.toynk.com/blogs/news/how-many-pokemon-types-are-there
 - https://medium.com/@juandes/pokemon-colors-and-deep-learning-95fb715be46
 - https://bulbapedia.bulbagarden.net/wiki/Pokémon_Red_and_Green_Versions
