@@ -1,6 +1,7 @@
 # CS3
 
-#edit
+## edit
+
 Hook document 
 Rubric
 Various Materials (data, code, articles, etc.)
